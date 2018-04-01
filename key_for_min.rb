@@ -13,3 +13,4 @@ def key_for_min_value(hash)
   lowest_key
 end
 
+#a.sort_by { |key, value| value }.first
