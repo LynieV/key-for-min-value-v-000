@@ -13,12 +13,3 @@ def key_for_min_value(hash)
   lowest_key
 end
 
-#def key_for_min_value(name_hash)
-  #answer = ""
-  #name_hash.each do |name, value| 
-    #if value 
-  #end
-  #answer = name
-  
-  
-#end
